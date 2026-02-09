@@ -90,7 +90,7 @@ Each device type had **distinct behavior, data structure, and UI representation*
 - React + TypeScript + Ant Design  
 - Responsive, modern UI with reusable components  
 - Performance-focused and clean layout
-- - Live Demo: mva-construction-umber.vercel.app
+- Live Demo: mva-construction-umber.vercel.app
 
 ### 🏥 Healthcare Management Portal
 - Doctor availability & insurance workflows  
