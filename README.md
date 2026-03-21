@@ -1,6 +1,6 @@
 # Hi 👋, I'm Abhishek Anand
 
-🚀 Frontend Developer | React | TypeScript | Enterprise UI | UI/UX Enthusiast  
+🚀 Frontend Developer | React | React Native | TypeScript | Enterprise UI | UI/UX Enthusiast  
 
 Frontend Developer with **3+ years of experience** building scalable, enterprise-grade web applications.  
 I specialize in **complex UI logic**, **real-time data visualization**, and **device-driven dashboards** with a strong focus on usability and performance.
