@@ -66,7 +66,7 @@ Each device type had **distinct behavior, data structure, and UI representation*
 
 ## 🛠 Tech Stack
 ### Frontend
-- React.js, React Native, Next.js
+- React.js, React Native, Next.js, Angular
 - TypeScript, JavaScript (ES6+)
 - HTML5, CSS3
 
