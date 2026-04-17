@@ -108,7 +108,7 @@ Each device type had **distinct behavior, data structure, and UI representation*
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: **abhishekanand864@gmail.com**
+- 📧 Email: **abhishekanand8544@gmail.com**
 - 💼 LinkedIn: **www.linkedin.com/in/abhishek-anand-b59236172**
 
 ---
